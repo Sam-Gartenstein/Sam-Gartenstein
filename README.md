@@ -8,6 +8,10 @@ I am a recent graduate of Columbia University's Quantitative Methods in the Soci
 
 ## 🔭 What I am Workoing On 
 
+🤖 **[Generative AI Engineering Workshop](https://github.com/Sam-Gartenstein/GenAI-Engineering-Workshop)** — *Hands-on introduction to generative AI concepts and applications*  
+
+Covers **prompt engineering**, **role prompting**, and **API fundamentals** through structured Google Colab notebooks. Includes guided exercises on **synthetic dataset creation** and exploration of **advanced topics** such as **model benchmarking**, **cost reduction strategies**, **AI agent design**, and **LLM-as-judge evaluation methods**. **Taught as a workshop for Columbia University QMSS students**, providing hands-on instruction and guided practice.
+
 🌍 **[Zambia Index Insurance Optimization](https://github.com/Sam-Gartenstein/zambia-index-insurance-optimization)** — *Weather Index Insurance Risk Reduction*
 
 Examines how different **zoning methods** impact **fairness** in **weather index insurance payouts**. Conducted in collaboration with **Columbia University’s International Research Institute for Climate and Society**, this project uses **rainfall data** across Zambia’s **provinces, districts, and camp-level zones**, as well as **K-means clusters**, to evaluate **forgone payouts** and quantify the **marginal benefit of increasing zone granularity**.
@@ -16,9 +20,6 @@ Examines how different **zoning methods** impact **fairness** in **weather index
 
 **Bayesian hierarchical model** estimating the probability of a **home run** for each MLB plate appearance, incorporating **batter, pitcher, and ballpark effects**. The model leverages **partial pooling** to stabilize estimates across players and venues, enabling more accurate predictions even when matchup data is sparse.
 
-🤖 **[Generative AI Engineering Workshop](https://github.com/Sam-Gartenstein/GenAI-Engineering-Workshop)** — *Hands-on introduction to generative AI concepts and applications*  
-
-Covers **prompt engineering**, **role prompting**, and **API fundamentals** through structured Google Colab notebooks. Includes guided exercises on **synthetic dataset creation** and exploration of **advanced topics** such as **model benchmarking**, **cost reduction strategies**, **AI agent design**, and **LLM-as-judge evaluation methods**.  
 
 
 ----
@@ -37,7 +38,7 @@ Covers **prompt engineering**, **role prompting**, and **API fundamentals** thro
 - **Data Analysis**: pandas, NumPy, tidyverse, dplyr  
 - **Data Visualization**: Matplotlib, Seaborn, Plotly, Streamlit  
 - **Geospatial Tools**: GeoPandas, Folium, CHIRPS, Google Earth Engine  
-- **Data Engineering & Ops**: Git, MLflow, Google Cloud Platform (GCP), Databricks  
+- **Data Engineering & Ops**: Git, MLflow, Docker, Google Cloud Platform (GCP), Databricks  
 
 **Areas of Interest**
 - Bayesian Statistics
