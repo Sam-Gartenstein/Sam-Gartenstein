@@ -10,7 +10,7 @@ I am a recent graduate of Columbia University's Quantitative Methods in the Soci
 
 🤖 **[Generative AI Engineering Workshop](https://github.com/Sam-Gartenstein/GenAI-Engineering-Workshop)** — *Hands-on introduction to generative AI concepts and applications*  
 
-Covers **prompt engineering**, **role prompting**, and **API fundamentals** through structured Google Colab notebooks. Includes guided exercises on **synthetic dataset creation** and exploration of **advanced topics** such as **model benchmarking**, **cost reduction strategies**, **AI agent design**, and **LLM-as-judge evaluation methods**. **Taught as a workshop for Columbia University QMSS students**, providing hands-on instruction and guided practice.
+**Workshop taught for Columbia University QMSS students**, providing hands-on instruction and guided practice. Covers **prompt engineering**, **role prompting**, and **API fundamentals** through structured Google Colab notebooks. Includes practical exercises on **synthetic dataset creation** and exploration of advanced topics such as **model benchmarking**, **cost-reduction strategies**, **AI agent design**, and **LLM-as-judge evaluation methods**.
 
 🌍 **[Zambia Index Insurance Optimization](https://github.com/Sam-Gartenstein/zambia-index-insurance-optimization)** — *Weather Index Insurance Risk Reduction*
 
