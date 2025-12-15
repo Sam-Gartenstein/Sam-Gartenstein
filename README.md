@@ -20,6 +20,9 @@ Examines how different **zoning methods** impact **fairness** in **weather index
 
 **Bayesian hierarchical model** estimating the probability of a **home run** for each MLB plate appearance, incorporating **batter, pitcher, and ballpark effects**. The model leverages **partial pooling** to stabilize estimates across players and venues, enabling more accurate predictions even when matchup data is sparse.
 
+🎬 **[Movie Recommendation System](https://github.com/Sam-Gartenstein/movie-recommendation-system)** — *Collaborative filtering–based movie recommendations*  
+
+End-to-end **movie recommendation system** combining **item–item collaborative filtering** with **matrix factorization (FunkMF)**. The project includes **offline model training and artifact generation**, followed by **real-time inference** through an interactive **Gradio web interface**. Designed to demonstrate best practices in **reproducible ML pipelines**, **model deployment**, and **containerized execution with Docker**.
 
 
 ----
