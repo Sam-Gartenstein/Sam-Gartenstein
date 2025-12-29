@@ -24,6 +24,10 @@ Examines how different **zoning methods** impact **fairness** in **weather index
 
 End-to-end **movie recommendation system** combining **item–item collaborative filtering** with **matrix factorization (FunkMF)**. The project includes **offline model training and artifact generation**, followed by **real-time inference** through an interactive **Gradio web interface**. Designed to demonstrate best practices in **reproducible ML pipelines**, **model deployment**, and **containerized execution with Docker**.
 
+🧠 **[LLM and Deep Learning Projects](https://github.com/Sam-Gartenstein/llm-and-deep-learning-projects)** — *Deep learning and LLM experiments*  
+
+A collection of **applied projects** demonstrating **model training, fine-tuning, and evaluation** across modern **deep learning** and **large language models**.
+
 
 ----
 
@@ -61,7 +65,6 @@ End-to-end **movie recommendation system** combining **item–item collaborative
 - **[GradeMate](https://github.com/laurauguc/grading_assistant)** - *App Development*
   
   GradeMate is an open-source application designed to assist teachers with grading by providing AI-generated recommendations. I led the prompt engineering and multi-agent design, and we submitted the project to Google’s Gemini Developer Competition. Developed in collaboration with Columbia University's QMSS Innovation Lab, GradeMate is being expanded as a transparent, contestable, and ethically grounded alternative to commercial tools, promoting responsible innovation in educational technology in contrast to closed-source solutions that often make broad claims about eliminating bias or surpassing human performance.
-
 
 - **[Zambia Rainfall Clustering Analysis](https://github.com/Sam-Gartenstein/zambia-drought-analysis)** - *Clustering Analysis*
 
